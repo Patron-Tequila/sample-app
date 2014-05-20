@@ -14,3 +14,20 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+//
+// Include all twitter's javascripts
+////= require bootstrap 
+//
+// Or peek any of them yourself
+//= bootstrap/transition
+//= bootstrap/alert
+//= bootstrap/modal
+//= bootstrap/dropdown
+//= bootstrap/scrollspy
+//= bootstrap/tab
+//= bootstrap/tooltip
+//= bootstrap/popover
+//= bootstrap/button
+//= bootstrap/collapse
+//= bootstrap/carousel
+//= bootstrap/affix .
