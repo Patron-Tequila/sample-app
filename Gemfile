@@ -46,6 +46,7 @@ group :production do
 end
 
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
